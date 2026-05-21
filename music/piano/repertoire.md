@@ -20,14 +20,18 @@
 
 | Stück | Priorität | Schwierigkeit |
 |---|---|---|
-| Final Fantasy Stücke | Hoch | Variabel |
-| Zelda: Ocarina of Time Stücke | Hoch | Variabel |
-| Atmosphärische Soundtracks | Hoch | Variabel |
+| To Zanarkand | Hoch | Mittel |
+| Zelda's Lullaby | Hoch | Leicht–Mittel |
+| Song of Storms | Hoch | Mittel |
+| Weitere Final Fantasy Stücke | Hoch | Variabel |
+| Atmosphärische Soundtrack-Stücke | Hoch | Variabel |
 
 ---
 
-## Langfristige Ziele
+## Repertoire-Richtung
 
-- persönliches Lieblingsrepertoire aufbauen
-- flüssiges beidhändiges Spielen
-- musikalischer Ausdruck statt nur richtige Noten
+Fokus auf:
+- atmosphärische Klaviermusik
+- soundtrack-orientierte Arrangements
+- emotional ausdrucksstarke Stücke
+- musikalisch klingende Intermediate-Stücke
