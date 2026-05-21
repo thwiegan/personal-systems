@@ -24,39 +24,52 @@ Ziel ist kein konservatoriumsartiger Leistungsdruck, sondern:
 
 ---
 
-## Musikalische Interessen
+## Musikalische Vorlieben
 
 Besonders motivierend:
 
+- Final Fantasy Soundtracks
+- Zelda / Ocarina of Time
 - Videospielmusik
-- Filmmusik
-- Musicals
-- atmosphärische Soundtracks
+- atmosphärische Game-Soundtracks
+- emotionale Film- und Musical-Soundtracks
+- melodische und harmonisch interessante Klaviermusik
 
-Wichtige Referenzen:
+Bevorzugtes Lernmaterial:
 
-- Final Fantasy
-- Zelda: Ocarina of Time
+- emotional ansprechende Stücke
+- Musik, die auch in vereinfachten Arrangements früh musikalisch klingt
+- erkennbare Motive und einprägsame Melodien
+- praktische, spielbare Arrangements statt früher Virtuosität
+
+Weniger motivierend:
+
+- trockene technische Übungen ohne musikalischen Bezug
+- abstrakte Theorie ohne direkte Anwendung am Instrument
+- zu früher Fokus auf Geschwindigkeit oder Virtuosität
 
 ---
 
-## Ziele
+## Lernstil
+
+- strukturiert und nachhaltig lernen
+- praxisnah arbeiten
+- Übungen mit direktem musikalischem Nutzen priorisieren
+- Theorie immer mit praktischer Anwendung verbinden
+- Überforderung vermeiden
+- Motivation und Spielfreude erhalten
+- Komplexität schrittweise steigern
+
+---
+
+## Langfristige Ziele
 
 - musikalischer werden
 - beidhändig flüssiger spielen
 - harmonisches Verständnis verbessern
-- Repertoire aufbauen
+- expressiver spielen
+- soundtrack-orientiertes Repertoire aufbauen
 - langfristig Freude am Spielen behalten
-
----
-
-## Lernprinzipien
-
-- praxisnah lernen
-- Übungen mit direktem Nutzen priorisieren
-- Theorie mit praktischer Anwendung verbinden
-- Überforderung vermeiden
-- Nachhaltigkeit wichtiger als kurzfristige Intensität
 
 ---
 
