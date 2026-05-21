@@ -2,129 +2,40 @@
 
 ## Repository Purpose
 
-Dieses Repository ist die zentrale Source of Truth für persönliche Systeme, insbesondere:
+Dieses Repository ist die zentrale Source of Truth für persönliche Systeme.
+
+Bereiche:
 
 - Fitness
-- Training
-- Recovery
-- Running
-- Mobility
-- langfristige Gesundheits- und Performancestrategien
-
-Wenn zukünftige Chats oder Agenten Trainingsfragen beantworten, sollen zuerst die Dateien dieses Repositories konsultiert werden.
-
----
-
-# Aktueller Trainingsstatus
-
-## Primäre Ziele
-
-- langfristiger Kraftaufbau
-- nachhaltige Athletik
+- Musik
 - Gesundheit
-- alltagstaugliche Fitness
-- Balance zwischen Fortschritt und Recovery
-- gute Basis für Wandern/Kraxe mit Baby
+- Familie
+- persönliche Organisationssysteme
 
 ---
 
-## Aktuelles Krafttraining
+# Bereichsstruktur
 
-Aktives Hauptprogramm:
+## Fitness
 
-```text
-fitness/progression/current-program.md
-```
-
-Aktives Urlaubsprogramm:
+Zentraler Einstiegspunkt:
 
 ```text
-fitness/progression/vacation-program.md
+fitness/CURRENT_STATE.md
 ```
 
 ---
 
-## Trainingssetup
+## Musik
 
-- Homegym: Eisenhorn S
-- Tracking: Strong Pro
-- Trainingsfrequenz: meist 3x/Woche Ganzkörper
-- ergänzend:
-  - lockeres Laufen
-  - Wandern
-  - Mobility/Yoga
-
----
-
-## Wichtige Rahmenbedingungen
-
-- Schlaf kann durch Baby schwanken
-- Recovery ist teilweise limitierender Faktor
-- Konsistenz wichtiger als perfekte Optimierung
-- Training soll langfristig nachhaltig bleiben
-
----
-
-## Trainingsprinzipien
-
-Prioritäten:
-
-1. Konsistenz
-2. Verletzungsfreiheit
-3. langfristiger Fortschritt
-4. Alltagstauglichkeit
-
-Ansatz:
-
-- evidenzbasiert
-- pragmatisch
-- minimal effektive Dosis bevorzugen
-- keine unnötige Junk-Volume
-- keine extreme Erschöpfung als Standard
-
----
-
-## Wichtige Referenzdateien
-
-### Trainingsphilosophie
+Zentraler Einstiegspunkt:
 
 ```text
-fitness/masterplans/Fitness_Masterplan.md
-```
-
-### Eisenhorn Übungsbibliothek
-
-```text
-fitness/exercise-library/Eisenhorn_Alle_Uebungen.md
-```
-
-### Running-Struktur
-
-```text
-fitness/progression/running-structure.md
-```
-
-### Deload-Regeln
-
-```text
-fitness/recovery/deload-guidelines.md
-```
-
-### Mobility-Routine
-
-```text
-fitness/mobility/mobility-routine.md
+music/CURRENT_STATE.md
 ```
 
 ---
 
-## Nutzungshinweis für zukünftige Chats
+# Nutzungshinweis für zukünftige Chats
 
-Bei Fragen wie:
-
-- "Was trainiere ich heute?"
-- "Wie sieht Workout A aus?"
-- "Wie ist mein aktueller Trainingsstand?"
-- "Welche Laufstruktur nutze ich aktuell?"
-
-sollen zuerst die Referenzdateien dieses Repositories konsultiert werden.
+Wenn Fragen zu einem Bereich gestellt werden, sollen zuerst die jeweiligen CURRENT_STATE.md Dateien konsultiert werden.
