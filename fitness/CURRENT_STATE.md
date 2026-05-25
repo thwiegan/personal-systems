@@ -13,11 +13,12 @@ Dieses Dokument verweist auf die aktuell relevanten Dateien und beschreibt den g
 ## Primäre Ziele
 
 - langfristiger Kraftaufbau
-- nachhaltige Athletik
+- nachhaltige hybride Athletik
 - Gesundheit
 - alltagstaugliche Fitness
 - Balance zwischen Fortschritt und Recovery
 - gute Basis für Wandern/Kraxe mit Baby
+- gute Grundlage für längere Gravel-/Rennradausfahrten
 - sichtbarer, funktionaler Muskelaufbau ohne Bodybuilding-Maximum
 
 ---
@@ -26,15 +27,11 @@ Dieses Dokument verweist auf die aktuell relevanten Dateien und beschreibt den g
 
 Aktives Hauptprogramm:
 
-```text
 fitness/progression/current-program.md
-```
 
 Aktives Urlaubsprogramm:
 
-```text
 fitness/progression/vacation-program.md
-```
 
 ---
 
@@ -45,6 +42,7 @@ fitness/progression/vacation-program.md
 - Trainingsfrequenz: meist 3x/Woche Ganzkörper
 - ergänzend:
   - lockeres Laufen
+  - Gravel-/Rennradfahren
   - Wandern
   - Mobility/Yoga
 
@@ -57,6 +55,7 @@ fitness/progression/vacation-program.md
 - Konsistenz wichtiger als perfekte Optimierung
 - Training soll langfristig nachhaltig bleiben
 - Training soll auch bei begrenzter Zeit und Energie praktikabel bleiben
+- Alltagssport und Familienaktivität zählen als sinnvoller Teil des Systems
 
 ---
 
@@ -77,6 +76,7 @@ Ansatz:
 - keine unnötige Junk-Volume
 - keine extreme Erschöpfung als Standard
 - Progression über Monate/Jahre statt kurzfristiger Maximierung
+- Kraft und aerobe Basis parallel entwickeln
 
 ---
 
@@ -84,45 +84,31 @@ Ansatz:
 
 ### Trainingsphilosophie
 
-```text
 fitness/masterplans/Fitness_Masterplan.md
-```
 
 ### Aktuelles Eisenhorn-Programm
 
-```text
 fitness/progression/current-program.md
-```
 
 ### Urlaubsprogramm
 
-```text
 fitness/progression/vacation-program.md
-```
 
 ### Eisenhorn Übungsbibliothek
 
-```text
 fitness/exercise-library/Eisenhorn_Alle_Uebungen.md
-```
 
 ### Running-Struktur
 
-```text
 fitness/progression/running-structure.md
-```
 
 ### Deload-Regeln
 
-```text
 fitness/recovery/deload-guidelines.md
-```
 
 ### Mobility-Routine
 
-```text
 fitness/mobility/mobility-routine.md
-```
 
 ---
 
