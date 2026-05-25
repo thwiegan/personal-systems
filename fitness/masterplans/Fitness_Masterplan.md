@@ -11,12 +11,13 @@ Dieser Plan ist keine kurzfristige Bodybuilding-Optimierung, sondern ein nachhal
 ## Ziele
 
 - Langfristiger Kraftaufbau
-- Athletik
+- Hybride Athletik
 - Gesundheit
 - Nachhaltigkeit
 - Beweglichkeit
 - Alltagstaugliche Fitness mit Familie/Baby
 - Gute Grundlage für Wandertouren mit Baby in der Kraxe
+- Gute Grundlage für längere Gravel-/Rennradausfahrten
 - Sichtbarer, funktionaler Muskelaufbau ohne Bodybuilding-Maximum
 
 ---
@@ -37,7 +38,7 @@ Dieser Plan ist keine kurzfristige Bodybuilding-Optimierung, sondern ein nachhal
 - Training soll morgens vor 6:00 Uhr möglich sein, aber nicht dogmatisch daran hängen
 - Homegym: Eisenhorn S
 - Tracking: Strong Pro App
-- Ergänzende Aktivitäten: Laufen, Yoga/Mobility, Wandern/Kraxe
+- Ergänzende Aktivitäten: Laufen, Gravel/Rennrad, Yoga/Mobility, Wandern/Kraxe
 
 ---
 
@@ -51,6 +52,7 @@ Dieser Plan ist keine kurzfristige Bodybuilding-Optimierung, sondern ein nachhal
 - Technik vor Ego
 - Nicht ständig Übungen wechseln
 - Minimale effektive Dosis bevorzugen, wenn Aufwand/Nutzen besser ist
+- Kraft und aerobe Basis parallel entwickeln
 
 ### Intensität
 
@@ -95,16 +97,24 @@ Ziel: Gewohnheit erhalten, nicht maximal reizen.
 
 ---
 
-## Laufen
+## Laufen und Radfahren
 
 ### Ziel
 
 - Grundlagenausdauer
 - Regeneration
 - Herz-Kreislauf-Fitness
-- Wandervorbereitung
+- Outdoorfähigkeit
+- Unterstützung für Wandern/Kraxe und längere Gravel-/Rennradausfahrten
 
 ### Empfehlung
+
+- regelmäßige moderate Bewegung wichtiger als seltene Extremtouren
+- Alltagssport zählt als relevanter Teil des Systems
+- überwiegend lockere Zone-2-Belastung
+- gelegentlich längere entspannte Ausfahrten sinnvoll
+
+### Laufen
 
 - 2 lockere Einheiten pro Woche
 - 20–40 Minuten
