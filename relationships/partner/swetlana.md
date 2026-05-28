@@ -8,10 +8,17 @@ Nicht nur organisatorisch funktionieren, sondern aktiv gemeinsame Zeit und Aufme
 
 ---
 
-## Beziehung
+## Wichtige Daten
 
-- zusammen seit 07.09.2016
-- verheiratet seit 19.07.2025
+- Geburtstag: 22.09.1988
+- zusammen seit: 07.09.2016
+- Verlobung: 28.11.2023
+- verheiratet seit: 19.07.2025
+- Geburt von Amelie: 05.09.2025
+
+---
+
+## Beziehung
 
 Die Beziehung basiert stark auf:
 
@@ -106,7 +113,7 @@ In 5 Jahren weiterhin:
 - Neuseeland
 - Chile
 
-Während dieser Reise erfolgte die Verlobung.
+Verlobung am 28.11.2023.
 
 Wichtige gemeinsame Phase mit:
 
